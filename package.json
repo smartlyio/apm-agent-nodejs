@@ -165,6 +165,7 @@
     "module-details-from-path": "^1.0.3",
     "mongodb": "^4.2.1",
     "mongodb-core": "^3.2.7",
+    "mongoose": "^6.1.8",
     "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
     "ndjson": "^1.5.0",
